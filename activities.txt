@@ -1,0 +1,5 @@
+Zilele orasului;In 19-22 mai.;Festival;72
+Stand-up Micutzu;La caminul cultural;Stand-up;3
+Untold;In 1-3 august;Festival;96
+da;da;da;100
+nu;nu;nu;55
